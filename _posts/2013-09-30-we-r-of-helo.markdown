@@ -1,6 +1,6 @@
 ---
 layout: post
-title: we r of #helo :)
+title: we r of helo :)
 category: riview
 ---
 
@@ -19,4 +19,4 @@ XSAILEZE ! #is of #bad of for #of #COMUNITIE !
 
 we r of helo :) :)
 
-\#folow n of [@unthreadebl00g][twitter] of get #UPDAT))!
+\#folow n of @unthreadebl00g twitter of get #UPDAT))!
