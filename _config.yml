@@ -1,0 +1,13 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+name: #unthredebl00g
+url: http://unthreadedjb.github.io
+description: #we !
+twitter: unthreadebl00g
+github: unthreadedjb
+gravatar_url: http://gravatar.com/avatar/2894d0b48ff23cd233ef255b331cdad4
+
