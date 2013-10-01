@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #we r of #helo :)
+title: we r of #helo :)
 category: riview
 ---
 
