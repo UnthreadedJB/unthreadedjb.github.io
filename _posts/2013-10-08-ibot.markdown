@@ -1,6 +1,6 @@
 ---
 layout: post
-title: we r of #IBOT !
+title: we r of IBOT !
 category: riview BOTLODE
 ---
 
