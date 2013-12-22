@@ -20,7 +20,7 @@ no pls #piracy !!
 
 # vidio proove of teem of REVIEW of ISO
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/_YPAeFPqdLQ?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/_YPAeFPqdLQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
 \#we r of #VIDIO ! #we r of #REVOW of #TIGRA !! !
 
